@@ -5,3 +5,4 @@ Link to shapefiles for VA boundaries: https://vgin.vdem.virginia.gov/datasets/77
 Get the "Shapefile Download (Clipped to VIMS shoreline)" version.
 
 Colab link: https://colab.research.google.com/drive/1ftUak7VeC5xFHbP-sjrI7l7rMz0XwlE-?usp=sharing 
+Paper Format Link: https://docs.google.com/document/d/1E6KXmLy97Blx-6E02Ss8B6tA-IxcWYgXTk3_qmLJG-Y/edit?usp=sharing
