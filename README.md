@@ -2,6 +2,7 @@
 
 cleaning: 
 tamera, diana, anna
+
 visualization: 
 carol, adaire, elle 
 
